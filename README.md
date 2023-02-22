@@ -91,7 +91,7 @@ Améliorations possibles :
 ## Utilisation
 
 ### Exécution
-Executer l'application Launcher ( classe Main du projet).
+Executer l'application Launcher (classe Main du projet).
 
 ### Génération
 
