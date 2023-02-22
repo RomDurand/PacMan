@@ -26,6 +26,7 @@
     <li>
       <a href="#à-propos-du-projet">À Propos du Projet</a>
       <ul>
+        <li><a href="#Avancé du projet">Avancé du projet</a></li>
         <li><a href="#créé-avec">Créé avec</a></li>
       </ul>
     </li>
@@ -50,9 +51,20 @@
 
 <!-- ABOUT THE PROJECT -->
 ## À Propos du Projet
-Jeu réalisé d'octobre à décembre 2022 avec Nino Dauviers, Thomas Allouche, Tom Cousteils et Dylan Maligue pour le projet final de Génie Logiciel en Master 1 Info. 
+Jeu réalisé d'octobre à décembre 2022 avec Nino Dauviers, Thomas Allouche, Tom Cousteils et Dylan Maligue pour le projet final de Génie Logiciel en Master 1 Info.   
 Ajout en février 2023 sur GitHub avec un README.
 
+## Avancé du projet
+
+Le projet est terminé.
+
+Améliorations possibles :  
+-Ajout de plusieurs niveaux de difficulté.  
+-Ajout d'un compteur de point et mémorisation du score. Affichage dans le menu Scores.  
+-Redimensionner les menus Scores, Option, Credits.  
+-Correction du problème lié au son.  
+-Ajouter un bouton Retry après un échec ou une victoire.  
+-Améliorer la fluidité des déplacements.  
 
 ### Créé avec
 * [Java OpenJDK](https://openjdk.java.net/)
