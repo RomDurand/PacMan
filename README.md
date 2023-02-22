@@ -51,7 +51,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## À Propos du Projet
-Jeu réalisé d'octobre à décembre 2022 avec Nino Dauviers, Thomas Allouche, Tom Cousteils et Dylan Maligue pour le projet final de Génie Logiciel en Master 1 Info.   
+Jeu réalisé d'octobre à décembre 2022 avec Nino Dauviers, Thomas Allouche, Tom Cousteils et Dylan Maligue pour le projet final de   
+Génie Logiciel en Master 1 Info.   
 Ajout en février 2023 sur GitHub avec un README.
 
 ## Avancé du projet
